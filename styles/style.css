@@ -8,7 +8,7 @@
     margin: 0 auto;
 }
 body{
-    background-image: url("/images/illustration-devices.svg");
+    background-image: url(../images/illustration-devices.svg);
     background-repeat: no-repeat;
     background-size: 29.5rem;
     background-position: 0.8rem 6rem;
